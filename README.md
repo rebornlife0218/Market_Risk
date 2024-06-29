@@ -6,4 +6,4 @@ is USD 100 million.
 (1) Full covariance model
 (2) Diagonal model ( with one factor and the one factor is the stock market index
 (3) Beta model with one factor and the one factor is the stock market index
-(4) Undiversified model ( i.e., the summation of individual VaR on each asse ts
+(4) Undiversified model ( i.e., the summation of individual VaR on each assets
