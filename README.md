@@ -1,4 +1,4 @@
-Suppose you invest in a po rtfolio that consists of the above five individual stocks Calculate
+Suppose you invest in a portfolio that consists of the above five individual stocks Calculate
 VaR 1 day, 95%) of a portfolio equally invested in these f ive stocks. Portfolio market value
 is USD 100 million.
 
