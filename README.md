@@ -10,9 +10,11 @@ Suppose you invest in a portfolio that consists of the above five individual sto
 * For an asset or portolio, its VaR behaved as its market value multiplied by the volatility (the volatility and the correlation matrix) of the position.
 * Must include forecasts for volatilities and correlation.
 2. Diagonal model ( with one factor and the one factor is the stock market index )
-* Assumption common movement in all assets is due to one common factor only, and the factor is the MARKET.
+* Assumption common movement in all assets is due to one common factor only, and the factor is the MARKET.\
+  
 ![Diagonal model](https://github.com/user-attachments/assets/9a53bf1e-814b-4b63-8e77-c90848fc6499)
-3. Beta model with one factor and the one factor is the stock market index
+3. Beta model with one factor and the one factor is the stock market index\
+  
 ![Beta model](https://github.com/user-attachments/assets/d715d65c-f2b7-4910-b61c-a5ac8b086723)
 4. Undiversified model ( i.e., the summation of individual VaR on each assets 
 * obtaining from adding the individual VaRs
