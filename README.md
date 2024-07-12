@@ -11,6 +11,6 @@ Suppose you invest in a portfolio that consists of the above five individual sto
 * Must include forecasts for volatilities and correlation.
 2. Diagonal model ( with one factor and the one factor is the stock market index )
 * Assumption common movement in all assets is due to one common factor only, and the factor is the MARKET.
-* ![]("Diagonal model.png")
+* ![Diagonal model](https://github.com/user-attachments/assets/9a53bf1e-814b-4b63-8e77-c90848fc6499)
 3. Beta model with one factor and the one factor is the stock market index 
 4. Undiversified model ( i.e., the summation of individual VaR on each assets 
