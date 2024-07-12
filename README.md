@@ -3,7 +3,7 @@ Suppose you invest in a portfolio that consists of the above five individual sto
 2. Microsoft
 3. Starbucks
 4. McDonald's
-5. Tesla\
+5. Tesla
 
  Compute VaR on this portfolio based on four methods
 1. Full covariance model 
