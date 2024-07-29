@@ -4,7 +4,7 @@ Suppose you invest in a portfolio that consists of the above five individual sto
 3. Starbucks
 4. McDonald's
 5. Tesla
-
+***
  Compute VaR on this portfolio based on four methods
 1. Full covariance model 
 * For an asset or portolio, its VaR behaved as its market value multiplied by the volatility (the volatility and the correlation matrix) of the position.
