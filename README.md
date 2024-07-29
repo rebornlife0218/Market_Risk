@@ -6,7 +6,7 @@ Suppose you invest in a portfolio that consists of the above five individual sto
 5. Tesla
 ***
  Compute VaR on this portfolio based on four methods
-1. Full covariance model 
+1. **Full covariance model** 
 * For an asset or portolio, its VaR behaved as its market value multiplied by the volatility (the volatility and the correlation matrix) of the position.
 * Must include forecasts for volatilities and correlation.
 2. Diagonal model ( with one factor and the one factor is the stock market index )
