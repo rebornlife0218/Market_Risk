@@ -16,6 +16,7 @@ Suppose you invest in a portfolio that consists of the above five individual sto
 
 3. Beta model with one factor and the one factor is the stock market index
   
-![Beta model](https://github.com/user-attachments/assets/d715d65c-f2b7-4910-b61c-a5ac8b086723)
+![Uploading 348279627-d715d65c-f2b7-4910-b61c-a5ac8b086723.png…]()
+
 4. Undiversified model ( i.e., the summation of individual VaR on each assets 
 * obtaining from adding the individual VaRs
